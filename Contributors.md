@@ -1527,4 +1527,5 @@
 - [Jonathan Vega](https://github.com/JonVega)
 - [Stanley Louie](https://github.com/Iouie)
 - [Niranjan-GopaL](https://github.com/Niranjan-GopaL)
+- [Luciano Vazquez](https://github.com/lucianoideh1)
 <!-- prettier-ignore-end -->
